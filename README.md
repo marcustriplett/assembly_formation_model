@@ -1,6 +1,6 @@
 # Computational model of neural assembly formation
 
-MATLAB code for simulating the development of spontaneously active neural assemblies. See corresponding journal article "Emergence of spontaneous assembly activity in developing neural networks without afferent input." M. A. Triplett et al. (2018). To appear in PLOS Computational Biology.
+MATLAB code for simulating the development of spontaneously active neural assemblies. See corresponding journal article "Emergence of spontaneous assembly activity in developing neural networks without afferent input." M. A. Triplett et al. (2018). PLoS Computational Biology, 14(9): e1006421.
 
 ## Usage
 Calling `assembly_formation_network.m` in MATLAB will begin the simulation. There are three variables controlling the basic behaviour and output of the model:
